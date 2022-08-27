@@ -1,2 +1,2 @@
 # PowerBI
-PowerBI projects
+This repository consists of PowerBI projects
